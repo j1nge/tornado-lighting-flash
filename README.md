@@ -2,9 +2,9 @@
 My Regeneron STS, Terra NYC STEM Fair, and JSHS research project focused on using lightning variables, specifically lightning flash rate, as a potential predictive factor for EF2+ tornadoes in 'Tornado Alley' states.
 
 ## File Functionality
-*final.ipynb file is the source code for data processing and analysis
-*data_download.ipynb file is the source code for downloading the lightning data files
-*L&T_Plotter.ipynb file is the source code for plotting lightning flash points on a US map
+* final.ipynb file is the source code for data processing and analysis
+* data_download.ipynb file is the source code for downloading the lightning data files
+* L&T_Plotter.ipynb file is the source code for plotting lightning flash points on a US map
 
 
 
